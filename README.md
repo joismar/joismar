@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/joismar/"><img alt="instagram" src="https://img.shields.io/badge/-Instagram-BA31A2?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 <p>
-  <img width="200em" align="right" alt="neo from matrix putting on glasses"  src="the-matrix.gif" />
+  <img height="130em" align="right" alt="neo from matrix putting on glasses"  src="the-matrix.gif" />
 </p>
 
 Meu nome é Joismar e sou um Engenheiro de Software Fullstack Generalista, aqui no github tem um pouco do que fiz e já faço publicamente. Não sou muito ativo por aqui, mas frequentemente estou postando coisas novas em minhas redes.
