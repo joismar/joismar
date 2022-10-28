@@ -1,37 +1,23 @@
-<div style="display: flex; align-items: start; justify-content: space-between; flex-wrap: wrap;">
-  <div>
-    <h2 style="display: inline">💻 Olá! Bem Vinde!</h2>
-    <h4 style="display: inline-block; color: gray">Hello! Welcome!</h4>
-  </div>
 
-  <div>
-    <a href="https://www.linkedin.com/in/joismar-braga-b6a5b514b/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com/JoismarBraga"><img alt="twitter" src="https://img.shields.io/badge/-Twitter-43BDF0?style=flat-square&logo=twitter&logoColor=white" /></a>
-    <a href="https://www.instagram.com/joismar/"><img alt="instagram" src="https://img.shields.io/badge/-Instagram-BA31A2?style=flat-square&logo=instagram&logoColor=white" /></a>
-  </div>
-</div>
+## 💻 Olá! Bem Vinde!
+### Hello! Welcome!
 
-<div style="display: flex; align-items: start; flex-wrap: wrap-reverse">
-<div style="margin-right: 10px; flex: 1; min-width: 20em">
-  <p>
-    Meu nome é Joismar e sou um Engenheiro de Software Fullstack Generalista, aqui no github tem um pouco do que fiz e já faço publicamente. Não sou muito ativo por aqui, mas frequentemente estou postando coisas novas em minhas redes.
-  </p>
-  <p>
-    My name is Joismar and I am a Generalist Fullstack Sofware Engineer, here on GitHub you can find some what i've done and my public contribuitions. I'm not very active around here, but I'm often posting new things on my networks.
-  </p>
-</div>
+<a href="https://www.linkedin.com/in/joismar-braga-b6a5b514b/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/JoismarBraga"><img alt="twitter" src="https://img.shields.io/badge/-Twitter-43BDF0?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/joismar/"><img alt="instagram" src="https://img.shields.io/badge/-Instagram-BA31A2?style=flat-square&logo=instagram&logoColor=white" /></a>
 
-<img width="300em" alt="neo from matrix putting on glasses"  src="the-matrix.gif">
-</div>
+<p>
+  <img width="200em" align="right" alt="neo from matrix putting on glasses"  src="the-matrix.gif" />
+</p>
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <h3>🛠️ Technologies</h3> 
-  <div>
-    <span style="color: #97CA00">█ Currently working</span>
-    <!-- <span style="color: #EDD500">█ Personal projects</span>
-    <span style="color: #ed7600">█ Rarely used</span> -->
-  </div>
-</div>
+Meu nome é Joismar e sou um Engenheiro de Software Fullstack Generalista, aqui no github tem um pouco do que fiz e já faço publicamente. Não sou muito ativo por aqui, mas frequentemente estou postando coisas novas em minhas redes.
+
+My name is Joismar and I am a Generalist Fullstack Sofware Engineer, here on GitHub you can find some what i've done and my public contribuitions. I'm not very active around here, but I'm often posting new things on my networks.
+
+
+### 🛠️ Technologies
+
+<img alt="TypeScript" src="https://img.shields.io/badge/_-Currently_working-303134?style=flat-square&logoColor=white&labelColor=97CA00" />
 
 #### 👨🏻‍💻 Languages
 <p>
