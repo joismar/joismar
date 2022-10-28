@@ -14,10 +14,9 @@ Meu nome é Joismar e sou um Engenheiro de Software Fullstack Generalista, aqui 
 
 My name is Joismar and I am a Generalist Fullstack Sofware Engineer, here on GitHub you can find some what i've done and my public contribuitions. I'm not very active around here, but I'm often posting new things on my networks.
 
+<img align="right" alt="TypeScript" src="https://img.shields.io/badge/_-Currently_working-303134?style=flat-square&logoColor=white&labelColor=97CA00" />
 
 ### 🛠️ Technologies
-
-<img alt="TypeScript" src="https://img.shields.io/badge/_-Currently_working-303134?style=flat-square&logoColor=white&labelColor=97CA00" />
 
 #### 👨🏻‍💻 Languages
 <p>
@@ -30,7 +29,7 @@ My name is Joismar and I am a Generalist Fullstack Sofware Engineer, here on Git
   <img alt="c" src="https://img.shields.io/badge/-C-15629F?style=flat-square&logo=c&logoColor=white" />
   <img alt="cplusplus" src="https://img.shields.io/badge/-C++-990F40?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="java" src="https://img.shields.io/badge/-Java-0F7796?style=flat-square&logo=java&logoColor=white" />
+  <img alt="dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Java-0F7796?style=flat-square&logo=java&logoColor=white" />
 </p>
 
 #### 🧩 Frameworks and libraries
