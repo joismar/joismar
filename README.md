@@ -2,9 +2,10 @@
 ## 💻 Olá! Bem Vinde!
 ### Hello! Welcome!
 
-<a href="https://www.linkedin.com/in/joismar-braga-b6a5b514b/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/JoismarBraga"><img alt="twitter" src="https://img.shields.io/badge/-Twitter-43BDF0?style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://www.instagram.com/joismar/"><img alt="instagram" src="https://img.shields.io/badge/-Instagram-BA31A2?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/joismar-braga-b6a5b514b/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-303134?style=flat-square&logo=linkedin&logoColor=white&labelColor=2867B2" /></a>
+<a href="https://twitter.com/JoismarBraga"><img alt="twitter" src="https://img.shields.io/badge/-Twitter-303134?style=flat-square&logo=twitter&logoColor=white&labelColor=43BDF0" /></a>
+<a href="https://www.instagram.com/joismar/"><img alt="instagram" src="https://img.shields.io/badge/-Instagram-303134?style=flat-square&logo=instagram&logoColor=white&labelColor=BA31A2" /></a>
+<a href="https://www.linkedin.com/in/joismar-braga-b6a5b514b/"><img alt="dbeaver" src="https://custom-icon-badges.demolab.com/badge/-More_links-303134?style=flat-square&logo=koji&logoColor=white&labelColor=1D1D1F" /></a>
 
 <p>
   <img height="130em" align="right" alt="neo from matrix putting on glasses"  src="the-matrix.gif" />
@@ -40,8 +41,8 @@ My name is Joismar and I am a Generalist Fullstack Sofware Engineer, here on Git
   <img alt="mobx" src="https://img.shields.io/badge/MobX-_-97CA00?style=flat-square&logo=mobx&logoColor=white&labelColor=DC5E15" />
   <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-_-97CA00?style=flat-square&logo=typeorm&logoColor=white&labelColor=FE0902" />
   <img alt="jest" src="https://img.shields.io/badge/Jest-_-97CA00?style=flat-square&logo=jest&logoColor=white&labelColor=C21325" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-120751?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-4BA6C9?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-_-120751?style=flat-square&logo=pandas&logoColor=white&labelColor=120751" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-_-4BA6C9?style=flat-square&logo=numpy&logoColor=white&labelColor=4BA6C9" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-00AE00?style=flat-square&logo=selenium&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-ExpressJS-45515B?style=flat-square&logo=express&logoColor=white" />
