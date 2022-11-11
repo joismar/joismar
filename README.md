@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/joismar-braga-b6a5b514b/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-303134?style=flat-square&logo=linkedin&logoColor=white&labelColor=2867B2" /></a>
 <a href="https://twitter.com/JoismarBraga"><img alt="twitter" src="https://img.shields.io/badge/-Twitter-303134?style=flat-square&logo=twitter&logoColor=white&labelColor=43BDF0" /></a>
 <a href="https://www.instagram.com/joismar/"><img alt="instagram" src="https://img.shields.io/badge/-Instagram-303134?style=flat-square&logo=instagram&logoColor=white&labelColor=BA31A2" /></a>
-<a href="https://www.linkedin.com/in/joismar-braga-b6a5b514b/"><img alt="dbeaver" src="https://custom-icon-badges.demolab.com/badge/-More_links-303134?style=flat-square&logo=koji&logoColor=white&labelColor=1D1D1F" /></a>
+<a href="https://joismar.dev"><img alt="dbeaver" src="https://custom-icon-badges.demolab.com/badge/-More_links-303134?style=flat-square&logo=koji&logoColor=white&labelColor=1D1D1F" /></a>
 
 <p>
   <img height="130em" align="right" alt="neo from matrix putting on glasses"  src="the-matrix.gif" />
@@ -28,6 +28,7 @@ My name is Joismar and I am a Generalist Fullstack Sofware Engineer, here on Git
   <img alt="html5" src="https://img.shields.io/badge/HTML5-_-97CA00?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26" />
   <img alt="ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="c" src="https://img.shields.io/badge/-C-15629F?style=flat-square&logo=c&logoColor=white" />
+  <img alt="csharp" src="https://img.shields.io/badge/-C%23-612C8B?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="cplusplus" src="https://img.shields.io/badge/-C++-990F40?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Java-0F7796?style=flat-square&logo=java&logoColor=white" />
@@ -86,4 +87,11 @@ Soon...
   <img height="150em" style="margin: 0 10px 10px 0" src="https://github-readme-stats.vercel.app/api?username=joismar&theme=great-gatsby&show_icons=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joismar&theme=great-gatsby&layout=compact&langs_count=6"/>
 
+</div>
+<p>
+<p>
+<div align="right">
+  
+  ![](https://komarev.com/ghpvc/?username=joismar&color=E34F26&style=for-the-badge&label=VIEWS)
+  
 </div>
