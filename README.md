@@ -1,5 +1,5 @@
 
-## 💻 Olá! Bem Vinde!
+## 💻 Olá! Boas Vindas!
 ### Hello! Welcome!
 
 <a href="https://www.linkedin.com/in/joismar-braga-b6a5b514b/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-303134?style=flat-square&logo=linkedin&logoColor=white&labelColor=2867B2" /></a>
