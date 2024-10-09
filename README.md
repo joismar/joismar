@@ -84,7 +84,7 @@ Soon...
 
 <div style="display: flex; flex-wrap: wrap; align-items: start; justify-content: flex-start">
 
-  <img height="150em" style="margin: 0 10px 10px 0" src="https://github-readme-stats.vercel.app/api?username=joismar&theme=great-gatsby&show_icons=true&count_private=true"/>
+  <img height="150em" style="margin: 0 10px 10px 0" src="https://github-readme-stats.vercel.app/api?username=joismar&theme=great-gatsby&show_icons=true&count_private=true&hide_rank=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joismar&theme=great-gatsby&layout=compact&langs_count=6"/>
 
 </div>
