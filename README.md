@@ -3,9 +3,7 @@
 ### Hello! Welcome!
 
 <a href="https://www.linkedin.com/in/joismar-braga-b6a5b514b/"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-303134?style=flat-square&logo=linkedin&logoColor=white&labelColor=2867B2" /></a>
-<a href="https://twitter.com/JoismarBraga"><img alt="twitter" src="https://img.shields.io/badge/-Twitter-303134?style=flat-square&logo=twitter&logoColor=white&labelColor=43BDF0" /></a>
 <a href="https://www.instagram.com/joismar/"><img alt="instagram" src="https://img.shields.io/badge/-Instagram-303134?style=flat-square&logo=instagram&logoColor=white&labelColor=BA31A2" /></a>
-<a href="https://joismar.dev"><img alt="dbeaver" src="https://custom-icon-badges.demolab.com/badge/-More_links-303134?style=flat-square&logo=koji&logoColor=white&labelColor=1D1D1F" /></a>
 
 <p>
   <img height="130em" align="right" alt="neo from matrix putting on glasses"  src="the-matrix.gif" />
